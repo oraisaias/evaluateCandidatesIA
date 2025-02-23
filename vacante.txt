@@ -1,0 +1,42 @@
+Descripción del Puesto: Desarrollador Web - React / Redux-Saga
+📍 Modalidad: 100% Remoto
+🛠 Ubicación del Equipo: Ciudad de México (CDMX)
+
+🟢 Requisitos Técnicos (Prioridad por nivel de importancia)
+1️⃣ Redux & Redux-Saga (9/10 - Crítico)
+
+Dominio en el manejo de estado con Redux y Redux-Saga.
+Experiencia en middleware y side effects, select, reducers, state.
+Implementación y depuración de flujos asíncronos complejos.
+2️⃣ React (Frontend Web - 9/10 - Esencial)
+
+Capacidad para levantar proyectos desde cero con React.
+Manejo avanzado de componentes, hooks y estado.
+3️⃣ Testing (7/10 - Importante, pero no crítico)
+
+Experiencia en pruebas unitarias e integración.
+Uso de herramientas como Jest, Testing Library o Cypress.
+4️⃣ Backend y Java (6/10 - Necesario a nivel básico)
+
+No se requiere desarrollo en Java, pero sí conocimientos básicos.
+Debe ser capaz de levantar un backend en IntelliJ y probar servicios REST.
+5️⃣ Git y Flujos de Trabajo (8/10 - Importante)
+
+Uso avanzado de Git: ramas, PRs, publicación de cambios.
+Familiaridad con flujos de trabajo colaborativos.
+🔵 Habilidades Personales
+Autodidacta y proactivo: Capacidad para buscar soluciones y aprender de manera autónoma.
+Trabajo en equipo remoto: El equipo está en CDMX, pero esta posición es remota, por lo que la comunicación efectiva es clave.
+Resolución de problemas: Pensamiento lógico y analítico para depuración y solución de errores.
+Inglés técnico (escrito): Capacidad para leer y escribir documentación en inglés.
+Responsabilidad y autonomía: Debe gestionar su propio tiempo y cumplir con entregas sin supervisión constante.
+🔴 Consideraciones Adicionales
+El proyecto depende en gran medida de Redux-Saga, por lo que su dominio es altamente prioritario.
+El frontend y backend pueden comportarse diferente en entornos de prueba, por lo que la depuración de errores requiere pensamiento crítico.
+No es necesario desarrollar en Java, pero sí comprender cómo consumir APIs desde React y levantar el backend en local.
+🎯 Perfil Ideal para la IA
+Fullstack orientado al frontend, con React y Redux-Saga como especialización.
+Capaz de levantar un backend en local y entender flujos de integración.
+Proactivo y autónomo, con habilidades de investigación y resolución de problemas.
+Experiencia en Git y trabajo remoto en equipos distribuidos.
+Buen nivel de inglés escrito para documentación y comunicación técnica.
